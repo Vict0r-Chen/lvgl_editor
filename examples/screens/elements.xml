@@ -11,7 +11,7 @@
 			<bind_style subject="dark_theme" name="style_light" ref_value="0" />
 			<bind_style subject="dark_theme" name="style_dark" ref_value="1" />
 			<theme_switcher flex_grow="1" />
-			<button label="Play Animation" width="content">
+			<button label="Play Animation123" width="content">
 				<play_timeline_event target="alarm_0" timeline="open" />
 			</button>
 		</row>
